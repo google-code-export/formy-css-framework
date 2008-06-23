@@ -1,0 +1,7 @@
+
+== Credits & Usefull  links==
+
+
+  * [http://www.sitepoint.com/article/fancy-form-design-css http://www.sitepoint.com/article/fancy-form-design-css]
+  * [http://www.smashingmagazine.com/2006/11/11/css-based-forms-modern-solutions/ http://www.smashingmagazine.com/2006/11/11/css-based-forms-modern-solutions/]
+  * [http://css-tricks.com/tips-for-creating-great-web-forms/ http://css-tricks.com/tips-for-creating-great-web-forms/]
