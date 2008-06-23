@@ -1,4 +1,4 @@
-== Credits & Usefull  links==
+== Credits & Useful  links==
 
 
   * [http://www.sitepoint.com/article/fancy-form-design-css http://www.sitepoint.com/article/fancy-form-design-css]
