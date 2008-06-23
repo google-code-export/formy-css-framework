@@ -1,9 +1,9 @@
 == Credits & Useful  links==
 
 
-  * [http://www.sitepoint.com/article/fancy-form-design-css http://www.sitepoint.com/article/fancy-form-design-css]
-  * [http://www.uxmatters.com/MT/archives/000107.php http://www.uxmatters.com/MT/archives/000107.php]
-  * [http://www.smashingmagazine.com/2006/11/11/css-based-forms-modern-solutions/ http://www.smashingmagazine.com/2006/11/11/css-based-forms-modern-solutions/]
-  * [http://css-tricks.com/tips-for-creating-great-web-forms/ http://css-tricks.com/tips-for-creating-great-web-forms/]
-  * [http://www.noupe.com/css/47-excellent-ajax-css-forms.html http://www.noupe.com/css/47-excellent-ajax-css-forms.html]
-  * [http://woork.blogspot.com/2008/06/form-elements-design-using-css-and-list.html http://woork.blogspot.com/2008/06/form-elements-design-using-css-and-list.html]
+  # [http://www.sitepoint.com/article/fancy-form-design-css http://www.sitepoint.com/article/fancy-form-design-css]
+  # [http://www.uxmatters.com/MT/archives/000107.php http://www.uxmatters.com/MT/archives/000107.php]
+  # [http://www.smashingmagazine.com/2006/11/11/css-based-forms-modern-solutions/ http://www.smashingmagazine.com/2006/11/11/css-based-forms-modern-solutions/]
+  # [http://css-tricks.com/tips-for-creating-great-web-forms/ http://css-tricks.com/tips-for-creating-great-web-forms/]
+  # [http://www.noupe.com/css/47-excellent-ajax-css-forms.html http://www.noupe.com/css/47-excellent-ajax-css-forms.html]
+  # [http://woork.blogspot.com/2008/06/form-elements-design-using-css-and-list.html http://woork.blogspot.com/2008/06/form-elements-design-using-css-and-list.html]
