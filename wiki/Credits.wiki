@@ -8,3 +8,4 @@
   # [http://css-tricks.com/tips-for-creating-great-web-forms/ http://css-tricks.com/tips-for-creating-great-web-forms/]
   # [http://www.noupe.com/css/47-excellent-ajax-css-forms.html http://www.noupe.com/css/47-excellent-ajax-css-forms.html]
   # [http://woork.blogspot.com/2008/06/form-elements-design-using-css-and-list.html http://woork.blogspot.com/2008/06/form-elements-design-using-css-and-list.html]
+  # [http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/ http://www.smashingmagazine.com/2008/07/04/web-form-design-patterns-sign-up-forms/]
